@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStoreGUI", "OnlineStoreGUI.csproj", "{430F5595-4DEC-49B3-9653-85EF2EBB6F24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStoreLibrary", "..\OnlineStoreLibrary\OnlineStoreLibrary.csproj", "{413BCC81-4F92-4071-993C-43E28C68CBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430F5595-4DEC-49B3-9653-85EF2EBB6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430F5595-4DEC-49B3-9653-85EF2EBB6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430F5595-4DEC-49B3-9653-85EF2EBB6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430F5595-4DEC-49B3-9653-85EF2EBB6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413BCC81-4F92-4071-993C-43E28C68CBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413BCC81-4F92-4071-993C-43E28C68CBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413BCC81-4F92-4071-993C-43E28C68CBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413BCC81-4F92-4071-993C-43E28C68CBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94522414-00A9-4D95-8CA8-E2220B4BBDA8}
+	EndGlobalSection
+EndGlobal
